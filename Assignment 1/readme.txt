@@ -12,4 +12,4 @@ Datasets are:
 - Wine Quality (winequality-data.csv)
 - Titanic Survival (titanic-data.csv)
 
-Code and datasets can be found in this github repo:
+Code and datasets can be found in this github repo: https://github.com/varshaachar/Machine-Learning/tree/master/Assignment%201

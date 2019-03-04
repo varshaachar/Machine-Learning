@@ -1,4 +1,4 @@
-# HW2 - Jython Implementation
+# HW2 - Randomized Optimization
 
 Run with
 
